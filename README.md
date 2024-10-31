@@ -1,0 +1,3 @@
+1) I scraped the data using the github api by creating a personal access token. The python script is available in script.py file. I have deleted my access token so the script won't run as is. You can create your own access token to run the script yourself.
+2) An interesting obsercation is that the language with most repos is Javascript with Python in a close second.
+3) An actionable recommendation I would give to developers is to shift more towards in demand languages like python, javascript, etc.
