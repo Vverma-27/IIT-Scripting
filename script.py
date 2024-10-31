@@ -4,7 +4,7 @@ import time
 
 # GitHub token and headers for authorization
 headers = {
-    "Authorization": "Bearer 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",
+    "Authorization": "Bearer your_key_here",
     "Accept": "application/vnd.github.v3+json"
 }
 
